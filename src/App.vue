@@ -55,7 +55,7 @@
               </p>
 
             </div>
-            <div class="logos">
+<!--            <div class="logos">
               <p style="font-family: Avenir, Helvetica, Arial, sans-serif;">
                 This work has been funded by a cross-KIC activity between EIT Digital and Climate KIC
               </p>
@@ -73,6 +73,7 @@
               </a>
 
             </div>
+-->
           </el-footer>
 
         </el-main>
